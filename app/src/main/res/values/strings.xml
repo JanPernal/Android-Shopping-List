@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista zakupów</string>
+    <string name="hint_name">Nazwa produktu</string>
+    <string name="hint_qty">Ilość</string>
+    <string name="hint_unit">Jednostka (szt., kg, l...)</string>
+    <string name="hint_price">Cena (zł)</string>
+    <string name="add">Dodaj</string>
+    <string name="clear">Skasuj listę</string>
+    <string name="empty">Lista jest pusta</string>
+</resources>
